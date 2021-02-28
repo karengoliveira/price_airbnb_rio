@@ -1,4 +1,6 @@
 # price_airbnb_rio
+# Karen Regina - fev 2021
+
 A partir da base de dados do Arirbnb do Rio de Janeiro buscou-se desenvolver um modelo para estimação de preço, baseado em algumas características da locação, de modo a auxiliar novos parceiros na precificação de seus espaços.
 
 # Como foi a definição da sua estratégia de modelagem?
